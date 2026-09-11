@@ -1,0 +1,13 @@
+.venv/
+uv.lock
+__pycache__/
+*.py[cod]
+.DS_Store
+data/
+runs/
+gifs/
+.cache/
+*.npz
+*.pt
+*.pth
+*.safetensors
